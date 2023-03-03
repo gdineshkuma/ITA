@@ -36,7 +36,7 @@ We will review your request and reach out to you to start the onboarding process
 
 *If you already have ITA, DPA, or OCI for your account*
 
-![Ticket Flow](/ITA.svg)
+![Ticket Flow](https://github.com/gdineshkuma/ITA/blob/main/ticketflow.svg) 
 
 ### For Requests
 
